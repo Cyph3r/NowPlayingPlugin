@@ -1,4 +1,4 @@
-# NowPlayingPlugin
+# NowPlayingPlugin - UNOFFICIAL
 
 This repository is UNOFFICIAL and is simply meant to be a backup of the source code. 
 
