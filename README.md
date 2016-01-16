@@ -8,4 +8,4 @@ This source may include bug fixes and features not yet found in the official rel
 ---
 
 ### Unofficial Releases
-To download the current unofficial release, download "Now_Playing-X.XX.X.ts3_plugin" located within the "unofficial_release" directory.
+To download the current unofficial release, download "Now_Playing_Unoffical-X.XX.uX.ts3_plugin" located within the "unofficial_release" directory.
