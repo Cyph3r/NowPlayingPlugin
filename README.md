@@ -7,17 +7,14 @@ This source may include bug fixes and features not yet found in the official rel
 
 ---
 
-### Unofficial Releases
+### Releases
 
-A part of this repo will be releasing unofficial versions of the plugin. These versions will include any bugfixes or features that are not in the official version on the author's website. 
+A part of this repo will be releasing both official and unofficial versions of the plugin. 
 
-To download the current release click on the releases tab at the top of this repo and download the latest .ts3_plugin file. This will allow for a quick install of the latest version.
+- An official release is simply a mirror of the offical version found on the authors website. 
+- An Unofficial release is a bugfix or feature that has been added, but has not yet been added by the official author. 
 
----
-
-### Official Releases
-
-I will also attempt to keep up with the current official releases of this plugin and release those in the releases tab as well. This may or may not happen because I will need to manually update this repo to reflect the author's updates. 
+You can find the latest release here: https://github.com/KroniK907/NowPlayingPlugin/releases
 
 ---
 
